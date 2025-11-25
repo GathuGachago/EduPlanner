@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login | StudentAssist</title>
+    <title>Login | EduPlanner</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
 </head>
 <body>
 
 <nav class="navbar">
-    <h2 class="logo">StudentAssist</h2>
+    <h2 class="logo">EduPlaner</h2>
 </nav>
 
 <div class="form-container">

@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Register | StudentAssist</title>
+    <title>Register | EduPlanner</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <nav class="navbar">
-    <h2 class="logo">StudentAssist</h2>
+    <h2 class="logo">EduPlanner</h2>
 </nav>
 
 <div class="form-container">

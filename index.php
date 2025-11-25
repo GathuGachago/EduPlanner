@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Student Assist | Learning Management</title>
+    <title>EduPlanner | Learning Management</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <nav class="navbar">
-    <h2 class="logo">StudentAssist</h2>
+    <h2 class="logo">EduPlanner</h2>
     <ul>
         <li><a href="index.php">Home</a></li>
         <li><a href="register.php">Register</a></li>
